@@ -3,6 +3,9 @@
 A simple profile page web application that allows users to view and update their profile details.  
 Features include editing the **profile picture** and **personal information** (name, email, bio, etc.).
 
+
+[Live Demo](https://kg29185048.github.io/ProfilePage/)
+
 ---
 
 ## Features
