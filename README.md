@@ -18,6 +18,11 @@ Features include editing the **profile picture** and **personal information** (n
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 
+## 🖼️ Screenshots
+Here is the profile page preview:
+
+![Profile Page Screenshot](https://github.com/kg29185048/ProfilePage/blob/main/src/pics/Screenshot%202025-09-12%20184057.png)
+
 
 ---
 
