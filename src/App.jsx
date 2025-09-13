@@ -4,7 +4,7 @@ import profilePicDefault from "./pics/pexels-arts-1496372.jpg";
 import insta from "./pics/5296765_camera_instagram_instagram logo_icon.png"
 import git from "./pics/317712_code repository_github_repository_resource_icon.png"
 import linked from "./pics/5296501_linkedin_network_linkedin logo_icon.png"
-import resumeFile from "./krishgarg_resume.pdf"; 
+import resumeFile from "./Krish_Garg_Resume.pdf"; 
 
 function App() {
   const defaultProfile = {
